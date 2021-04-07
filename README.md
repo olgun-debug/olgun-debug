@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Olgun ORHAN
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Analytics [GA4]
+- 💞️ I’m looking to collaborate on Analytics Google or CRM App
+- 📫 How to reach me: olgunorhan984@gmail.com
